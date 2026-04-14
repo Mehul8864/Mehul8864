@@ -11,6 +11,9 @@
   <a href="https://github.com/Mehul8864">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://mehul-portfolio-self.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -19,7 +22,8 @@
 
 - 🔭 Currently working on **BuddyHub**, **EduFlux**, and **ModuTech**
 - 🌱 Deep-diving into real-time systems with **Socket.IO** and scalable MERN architectures
-- 💡 I enjoy building full-stack products from scratch — auth, payments, real-time features, the whole deal
+- 💡 I enjoy building MERN apps from scratch — auth, payments, real-time features, the whole deal
+- 🌐 Portfolio: [mehul-portfolio-self.vercel.app](https://mehul-portfolio-self.vercel.app/)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mehul-gupta-b38a2b330/)
 
 ---
@@ -50,7 +54,7 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [BuddyHub](https://github.com/Mehul8864/BuddyHub) | Threads-inspired social platform with real-time chat, notifications, and follow system | React, Node.js, MongoDB, Socket.IO |
-| [EduFlux](https://github.com/Mehul8864/EduFlux) | Full-stack EdTech platform with course creation, video progress tracking & Razorpay payments | React, Redux, Node.js, MongoDB, Razorpay |
+| [EduFlux](https://github.com/Mehul8864/EduFlux) | MERN EdTech platform with course creation, video progress tracking & Razorpay payments | React, Redux, Node.js, MongoDB, Razorpay |
 | [ModuTech](https://github.com/Mehul8864/ModuTech) | Modular tech project | CSS / JS |
 | [UBER-CLONE](https://github.com/Mehul8864/UBER-CLONE) | Uber-inspired ride booking app | JavaScript |
 | [Wall-Calender](https://github.com/Mehul8864/Wall-Calender) | Wall calendar app | TypeScript |
